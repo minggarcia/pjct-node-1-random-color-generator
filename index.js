@@ -1,5 +1,4 @@
 import chalk from 'chalk';
-import generateRandomColor from 'generate-random-color';
 import randomColor from 'randomcolor';
 
 // prints random # hex color string:
