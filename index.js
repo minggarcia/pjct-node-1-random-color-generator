@@ -39,22 +39,3 @@ console.log(
 ###############################
 ###############################`),
 );
-
-// with input:
-
-// console.log(chalk.hex(randomColor).bold('#'));
-/* const lineWithSymbol = chalk.hex(randomColor).bold(symbol);*/
-
-/*
-console.log(lineWithSymbol.repeat(31));
-console.log(lineWithSymbol.repeat(31));
-console.log(lineWithSymbol.repeat(5));
-console.log(lineWithSymbol.repeat(5));
-*/
-
-// console.log(chalk.blue('Hello world!'));
-
-/* const symbol = '#';
-console.log(chalk.hex(randomColor).c)
-console.log(chalk.blue(symbol.repeat(31)));
-console.log(chalk.blue(symbol.repeat(31))); */
