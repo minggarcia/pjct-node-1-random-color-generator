@@ -1,5 +1,5 @@
 import chalk from 'chalk';
-import randomColor from 'randomcolor';
+import randomColor from 'randomColor';
 
 // prints random # hex color string:
 
